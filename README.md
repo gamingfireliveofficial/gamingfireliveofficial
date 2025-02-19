@@ -24,7 +24,7 @@
 <a href="https://twitter.com/deepmukherjeer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepmukherjeer" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/deep-mukherjee-565b1a2a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deep-mukherjee-565b1a2a1" height="30" width="40" /></a>
 <a href="https://instagram.com/bhattacharya.co" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhattacharya.co" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/gamingfire02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gamingfire02" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/deep crypto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="deep crypto" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
